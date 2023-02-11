@@ -27,3 +27,4 @@ Contact us on discord server in the server bio
 # How can we delete our entire data?
 Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entire data without asking any question.
 Please note, that we can change this policy without any warning at any given time.
+
