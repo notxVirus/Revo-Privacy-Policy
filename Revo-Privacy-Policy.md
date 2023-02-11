@@ -1,4 +1,4 @@
-# Revo-Privacy-Policy
+# Privacy Policy
 
 # What does it store?
 Server IDs for servers data(prefixes, settings)
